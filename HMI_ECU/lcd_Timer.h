@@ -1,9 +1,4 @@
-/*
- * lcd_Timer.h
- *
- *  Created on: 31/2/2020
- *      Author: Hossam Ahmed
- */
+
 
 #ifndef LCD_TIMER_H_
 #define LCD_TIMER_H_

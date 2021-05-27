@@ -1,15 +1,3 @@
- /******************************************************************************
- *
- * Module: I2C(TWI)
- *
- * File Name: i2c.h
- *
- * Description: Header file for the I2C(TWI) AVR driver
- *
- * Author: Mohamed Tarek
- *
- *******************************************************************************/ 
-
 
 #ifndef I2C_H_
 #define I2C_H_

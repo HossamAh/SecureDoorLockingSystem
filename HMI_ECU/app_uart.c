@@ -1,10 +1,3 @@
-/*
- * app_uart.c
- *
- *  Created on: 31/2/2020
- *      Author: Hossam ahmed
- */
-
 #include"app_uart.h"
 #include"uart.h"
 

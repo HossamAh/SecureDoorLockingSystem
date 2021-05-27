@@ -1,9 +1,3 @@
-/*
- * MCU2.c
- *
- *  Created on: 31/2/2020
- *      Author: Hossam Ahmed
- */
 
 #include"app_eeprom.h"
 #include"app_uart.h"

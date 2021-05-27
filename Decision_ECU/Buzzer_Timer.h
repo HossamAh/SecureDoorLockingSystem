@@ -1,9 +1,4 @@
-/*
- * Buzzer_Timer.h
- *
- *  Created on: 1/2/2020
- *      Author: Hossam Ahmed
- */
+
 
 #include"std_types.h"
 #ifndef BUZZER_TIMER_H_

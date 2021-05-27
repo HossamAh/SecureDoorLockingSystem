@@ -1,9 +1,4 @@
-/*
- * keypad_UART.h
- *
- *  Created on: 31/1/2020
- *      Author: Hossam Ahmed
- */
+
 
 #ifndef KEYPAD_UART_H_
 #define KEYPAD_UART_H_

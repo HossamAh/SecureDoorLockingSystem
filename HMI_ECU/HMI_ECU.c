@@ -1,9 +1,4 @@
-/*
- * HMI_ECU.c
- *
- *  Created on: 31/1/2020
- *  Author: Hossam Ahmed
- */
+
 #include"keypad_UART.h"
 #include"app_uart.h"
 #include"lcd_Timer.h"

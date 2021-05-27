@@ -1,9 +1,3 @@
-/*
- * app_uart.h
- *
- *  Created on: 31/1/2020
- *      Author: Hossam Ahmed
- */
 
 #ifndef APP_UART_H_
 #define APP_UART_H_

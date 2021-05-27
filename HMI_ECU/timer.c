@@ -1,14 +1,4 @@
-/******************************************************************************
- *
- * Module: TIMER
- *
- * File Name: timer.c
- *
- * Description: Source file for the Timer AVR driver
- *
- * Author: Hossam Ahmed
- *
- *******************************************************************************/
+
 #include "timer.h"
 
 

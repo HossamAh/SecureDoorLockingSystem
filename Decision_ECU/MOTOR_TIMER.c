@@ -1,9 +1,4 @@
-/*
- * MOTOR_TIMER.c
- *
- *  Created on: 2/2/2020
- *      Author: Hossam Ahmed
- */
+
 #include"timer.h"
 #include"MOTOR_TIMER.h"
 extern uint8 g_numberOfSeconds;/*number of seconds needed in timer*/

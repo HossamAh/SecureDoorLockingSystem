@@ -1,9 +1,4 @@
-/*
- * lcd_Timer.c
- *
- *  Created on: 31/2/2020
- *      Author: Hossam Ahmed
- */
+
 #include"lcd_timer.h"
 #include"timer.h"
 extern uint8 g_check;

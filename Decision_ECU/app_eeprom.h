@@ -1,9 +1,3 @@
-/*
- * app_eeprom.h
- *
- *  Created on: 31/1/2020
- *      Author: Hossam Ahmed
- */
 
 #ifndef APP_EEPROM_H_
 #define APP_EEPROM_H_

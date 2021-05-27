@@ -1,9 +1,4 @@
-/*
- * Buzzer_Timer.c
- *
- *  Created on: 1/2/2020
- *      Author: Hossam Ahmed
- */
+
 #include"Buzzer_Timer.h"
 #include"timer.h"
 extern uint8 g_numberOfSeconds;/*number of seconds needed in timer*/

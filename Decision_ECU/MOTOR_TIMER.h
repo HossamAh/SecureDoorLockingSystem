@@ -1,9 +1,3 @@
-/*
- * MOTOR_TIMER.h
- *
- *  Created on: 2/2/2020
- *      Author: Hossam Ahmed
- */
 
 #ifndef MOTOR_TIMER_H_
 #define MOTOR_TIMER_H_

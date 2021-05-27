@@ -1,14 +1,4 @@
- /******************************************************************************
- *
- * Module: External EEPROM
- *
- * File Name: external_eeprom.c
- *
- * Description: Source file for the External EEPROM Memory
- *
- * Author: Mohamed Tarek
- *
- *******************************************************************************/
+
 #include "i2c.h"
 #include "external_eeprom.h"
 

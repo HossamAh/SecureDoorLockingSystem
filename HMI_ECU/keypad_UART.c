@@ -1,9 +1,4 @@
-/*
- * keypad_UART.c
- *
- *  Created on: 31/1/2020
- *      Author: Hossam Ahmed
- */
+
 
 #include"keypad_UART.h"
 #include"uart.h"
